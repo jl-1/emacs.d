@@ -4,7 +4,7 @@
 ;;; Package --- Summary
 ;;; Code:
 
-(add-to-list 'load-path "~/.config/emacs/modules")
+(add-to-list 'load-path "./modules")
 (require 'my-defaults)
 (require 'my-evil)
 (require 'my-themes)
